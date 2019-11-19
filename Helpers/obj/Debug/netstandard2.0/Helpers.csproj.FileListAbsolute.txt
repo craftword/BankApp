@@ -1,0 +1,8 @@
+C:\Users\craft\source\repos\BankApp\Helpers\bin\Debug\netstandard2.0\Helpers.deps.json
+C:\Users\craft\source\repos\BankApp\Helpers\bin\Debug\netstandard2.0\Helpers.dll
+C:\Users\craft\source\repos\BankApp\Helpers\bin\Debug\netstandard2.0\Helpers.pdb
+C:\Users\craft\source\repos\BankApp\Helpers\obj\Debug\netstandard2.0\Helpers.csprojAssemblyReference.cache
+C:\Users\craft\source\repos\BankApp\Helpers\obj\Debug\netstandard2.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\BankApp\Helpers\obj\Debug\netstandard2.0\Helpers.AssemblyInfo.cs
+C:\Users\craft\source\repos\BankApp\Helpers\obj\Debug\netstandard2.0\Helpers.dll
+C:\Users\craft\source\repos\BankApp\Helpers\obj\Debug\netstandard2.0\Helpers.pdb

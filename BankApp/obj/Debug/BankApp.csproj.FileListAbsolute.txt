@@ -1,0 +1,17 @@
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\craft\source\repos\BankApp\BankApp\obj\Debug\BankApp.csprojAssemblyReference.cache
+C:\Users\craft\source\repos\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\craft\source\repos\BankApp\BankApp\obj\Debug\BankApp.pdb
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Users.dll
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Users.pdb
+C:\Users\craft\source\repos\BankApp\BankApp\obj\Debug\BankApp.csproj.CopyComplete
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Customers.dll
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Customers.pdb
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Accounts.dll
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Accounts.pdb
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Helpers.dll
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Helpers.pdb
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\craft\source\repos\BankApp\BankApp\bin\Debug\Newtonsoft.Json.xml

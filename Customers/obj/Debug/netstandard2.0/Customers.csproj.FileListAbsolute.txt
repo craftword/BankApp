@@ -1,0 +1,11 @@
+C:\Users\craft\source\repos\BankApp\Customers\obj\Debug\netstandard2.0\Customers.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\BankApp\Customers\obj\Debug\netstandard2.0\Customers.AssemblyInfo.cs
+C:\Users\craft\source\repos\BankApp\Customers\bin\Debug\netstandard2.0\Customers.deps.json
+C:\Users\craft\source\repos\BankApp\Customers\bin\Debug\netstandard2.0\Customers.dll
+C:\Users\craft\source\repos\BankApp\Customers\bin\Debug\netstandard2.0\Customers.pdb
+C:\Users\craft\source\repos\BankApp\Customers\obj\Debug\netstandard2.0\Customers.dll
+C:\Users\craft\source\repos\BankApp\Customers\obj\Debug\netstandard2.0\Customers.pdb
+C:\Users\craft\source\repos\BankApp\Customers\obj\Debug\netstandard2.0\Customers.csprojAssemblyReference.cache
+C:\Users\craft\source\repos\BankApp\Customers\bin\Debug\netstandard2.0\Helpers.dll
+C:\Users\craft\source\repos\BankApp\Customers\bin\Debug\netstandard2.0\Helpers.pdb
+C:\Users\craft\source\repos\BankApp\Customers\obj\Debug\netstandard2.0\Customers.csproj.CopyComplete

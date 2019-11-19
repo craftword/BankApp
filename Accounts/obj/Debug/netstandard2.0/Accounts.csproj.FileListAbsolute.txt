@@ -1,0 +1,11 @@
+C:\Users\craft\source\repos\BankApp\Accounts\bin\Debug\netstandard2.0\Accounts.deps.json
+C:\Users\craft\source\repos\BankApp\Accounts\bin\Debug\netstandard2.0\Accounts.dll
+C:\Users\craft\source\repos\BankApp\Accounts\bin\Debug\netstandard2.0\Accounts.pdb
+C:\Users\craft\source\repos\BankApp\Accounts\obj\Debug\netstandard2.0\Accounts.csprojAssemblyReference.cache
+C:\Users\craft\source\repos\BankApp\Accounts\obj\Debug\netstandard2.0\Accounts.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\BankApp\Accounts\obj\Debug\netstandard2.0\Accounts.AssemblyInfo.cs
+C:\Users\craft\source\repos\BankApp\Accounts\obj\Debug\netstandard2.0\Accounts.dll
+C:\Users\craft\source\repos\BankApp\Accounts\obj\Debug\netstandard2.0\Accounts.pdb
+C:\Users\craft\source\repos\BankApp\Accounts\bin\Debug\netstandard2.0\Helpers.dll
+C:\Users\craft\source\repos\BankApp\Accounts\bin\Debug\netstandard2.0\Helpers.pdb
+C:\Users\craft\source\repos\BankApp\Accounts\obj\Debug\netstandard2.0\Accounts.csproj.CopyComplete
